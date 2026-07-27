@@ -16,7 +16,7 @@ public:
         while(st<=end){
             long long mid=st+(end-st)/2;
             long long k=mid*mid;
-            if(k>x){
+            if(k>x){// k is greater to our required ans thats y shrink it
                 end=mid-1;
             }
             else{
