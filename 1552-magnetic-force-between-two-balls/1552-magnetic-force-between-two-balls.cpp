@@ -13,15 +13,15 @@ bool iscow(vector<int>& position,int distance,int m){
     return false;
 }
      int maxDistance(vector<int>& position, int m) {
-    //     sort(position.begin(),position.end());
-    //     int ans=-1;
-    //     for(int i=0;i<position.size();i++){
-    //             if(iscow(position,i,m)==true){
-    //                 ans=i;
-    //                 continue;
-    //         }
-    //     }
-    //     return ans;
+        // sort(position.begin(),position.end());
+        // int ans=-1;
+        // for(int i=0;i<position.back()-position.front();i++){
+        //         if(iscow(position,i,m)==true){
+        //             ans=i;
+        //             continue;
+        //     }
+        // }
+        // return ans;/// tle
 
 
     // applying binary search
