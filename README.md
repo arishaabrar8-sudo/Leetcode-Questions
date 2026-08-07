@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
