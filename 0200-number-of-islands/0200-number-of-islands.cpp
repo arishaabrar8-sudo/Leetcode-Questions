@@ -1,14 +1,14 @@
 class Solution {
 public:
-    void bfs(vector<vector<char>>& grid,int i,int j){
+    void dfs(vector<vector<char>>& grid,int i,int j){
         int r=grid.size();
         int c=grid[0].size();
         if(i<0 || j<0 || i>=r || j>=c || grid[i][j]=='0'){return;}
         grid[i][j]='0';
-        bfs(grid,i+1,j);//down
-        bfs(grid,i-1,j);//up
-        bfs(grid,i,j-1);//left
-        bfs(grid,i,j+1);//right 
+        dfs(grid,i+1,j);//down
+        dfs(grid,i-1,j);//up
+        dfs(grid,i,j-1);//left
+        dfs(grid,i,j+1);//right 
     }
     int numIslands(vector<vector<char>>& grid) {
         int row=grid.size();
@@ -18,7 +18,7 @@ public:
             for(int j=0;j<col;j++){
                 if(grid[i][j]=='1'){
                     island++;
-                    bfs(grid,i,j);
+                    dfs(grid,i,j);
                 }
             }
         }
