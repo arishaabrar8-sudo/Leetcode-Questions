@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0078-subsets) |
+| [0200-number-of-islands](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0704-binary-search](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -91,5 +92,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [2643-row-with-maximum-ones](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/2643-row-with-maximum-ones) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
