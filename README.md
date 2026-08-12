@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0704-binary-search](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -106,4 +109,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
