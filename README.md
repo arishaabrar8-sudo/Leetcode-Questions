@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0051-n-queens) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
