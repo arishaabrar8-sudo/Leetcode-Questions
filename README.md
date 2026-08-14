@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0078-subsets) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0078-subsets) |
