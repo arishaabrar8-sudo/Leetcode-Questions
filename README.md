@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/arishaabrar8-sudo/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
